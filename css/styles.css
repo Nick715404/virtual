@@ -49,6 +49,10 @@ a:focus {
   font-weight: 500;
 }
 
+.body-active {
+  overflow: hidden;
+}
+
 .main {
   flex-grow: 1;
 }
